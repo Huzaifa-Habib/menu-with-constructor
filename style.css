@@ -4,7 +4,10 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    background-color: teal;
+    /* background-color: teal; */
+    background-image: url(https://images.unsplash.com/photo-1515669097368-22e68427d265?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cmVzdGF1cmFudHN8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60);
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 ul{
@@ -23,6 +26,7 @@ li{
     text-align: center;
     font-family: cursive;
     color: cornflowerblue;
+    border-bottom: 5px solid palevioletred;
 }
 
 
@@ -30,8 +34,8 @@ li{
     background-color: white;
     width: calc(25vw);
     margin-left: 60px;
-    padding: 2px 20px;
-    padding-bottom: 30px;
+    /* padding: 2px 20px; */
+    /* padding-bottom: 30px; */
 }
 
 .main div{
@@ -39,7 +43,7 @@ li{
 }
 
 .share{
-    border: 3px solid rgb(20, 20, 82);
+    /* border: 3px solid rgb(20, 20, 82); */
     padding: 0px !important;
     margin: 0px !important;
 
@@ -50,7 +54,9 @@ li{
 .share h1{
     text-align: center;
     font-family: cursive;
-    color: rgb(32, 18, 92);
+    color: white;
+    background-color: palevioletred;
+
 }
 
 .share li{
@@ -61,13 +67,14 @@ li{
 }
 
 .main-menu{
-    border: 3px solid rgb(20, 20, 82);
+    /* border: 3px solid rgb(20, 20, 82); */
 }
 
 .main-menu h1{
     text-align: center;
     font-family: cursive;
-    color: rgb(32, 18, 92);
+    color: white;
+    background-color: palevioletred;
 
 }
 
@@ -79,7 +86,7 @@ li{
 }
 
 .side{
-    border: 3px solid rgb(20, 20, 82);
+    /* border: 3px solid rgb(20, 20, 82); */
 
     
 }
@@ -87,7 +94,9 @@ li{
 .side h1{
     text-align: center;
     font-family: cursive;
-    color: rgb(32, 18, 92);
+    color: white;
+    background-color: palevioletred;
+   
 }
 
 .side li{
