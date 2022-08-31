@@ -1,0 +1,98 @@
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: teal;
+
+}
+ul{
+    list-style: none;
+    margin: 0px !important;
+    padding: 0px !important;
+
+}
+
+li{
+    list-style: none;
+    
+}
+
+.main-head{
+    text-align: center;
+    font-family: cursive;
+    color: cornflowerblue;
+}
+
+
+.main{
+    background-color: white;
+    width: calc(25vw);
+    margin-left: 60px;
+    padding: 2px 20px;
+    padding-bottom: 30px;
+}
+
+.main div{
+    margin-top: 20px;
+}
+
+.share{
+    border: 3px solid rgb(20, 20, 82);
+    padding: 0px !important;
+    margin: 0px !important;
+
+
+    
+}
+
+.share h1{
+    text-align: center;
+    font-family: cursive;
+    color: rgb(32, 18, 92);
+}
+
+.share li{
+    padding-left: 10px;
+    padding-bottom: 8px;
+    color:rgb(16, 16, 161);
+    font-weight: bold;
+}
+
+.main-menu{
+    border: 3px solid rgb(20, 20, 82);
+}
+
+.main-menu h1{
+    text-align: center;
+    font-family: cursive;
+    color: rgb(32, 18, 92);
+
+}
+
+.main-menu li{
+    padding-left: 10px;
+    padding-bottom: 8px;
+    color:rgb(16, 16, 161);
+    font-weight: bold;
+}
+
+.side{
+    border: 3px solid rgb(20, 20, 82);
+
+    
+}
+
+.side h1{
+    text-align: center;
+    font-family: cursive;
+    color: rgb(32, 18, 92);
+}
+
+.side li{
+    padding-left: 10px;
+    padding-bottom: 8px;
+    color:rgb(16, 16, 161);
+    font-weight: bold;
+}
