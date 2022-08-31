@@ -33,9 +33,11 @@ li{
 .main{
     background-color: white;
     width: calc(25vw);
-    margin-left: 60px;
-    /* padding: 2px 20px; */
-    /* padding-bottom: 30px; */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    margin-top: 20px;
+    
 }
 
 .main div{
